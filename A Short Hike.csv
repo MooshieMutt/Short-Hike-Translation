@@ -1,7 +1,7 @@
 LineCode,LineText,OriginalText,Comment,Speaker,StoryNode
-line:e1d917,"<sprite tint=1 name=""LeftArrow""> White Coast Trail ","<sprite tint=1 name=""LeftArrow""> White Coast Trail ",,Original,HomeSignStart
-line:8e78cb,"Rangers Cabin <sprite name=""RightArrow"" tint=1> ","Rangers Cabin <sprite name=""RightArrow"" tint=1> ",,Original,HomeSignStart
-line:2a55e5,excuse me do you have the time? ,excuse me do you have the time? ,,Original,GoatStart
+line:e1d917,"<sprite tint=1 name=""LeftArrow""> Irejo de Blanka Marbordo ","<sprite tint=1 name=""LeftArrow""> White Coast Trail ",,Original,HomeSignStart
+line:8e78cb,"Kabano de Arbarpolicisto <sprite name=""RightArrow"" tint=1> ","Rangers Cabin <sprite name=""RightArrow"" tint=1> ",,Original,HomeSignStart
+line:2a55e5,"pardonu min, ĉu vi havas la tempon?",excuse me do you have the time? ,,Original,GoatStart
 line:b03acc,"um yeah, let me chec- ","um yeah, let me chec- ",,Player,GoatStart
 line:445422,see... normally i would know the time ,see... normally i would know the time ,,Original,GoatStart
 line:e86981,i just lost my watch ,i just lost my watch ,,Original,GoatStart
